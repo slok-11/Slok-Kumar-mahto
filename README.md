@@ -1,2 +1,2 @@
 # Slok-Kumar-mahto
-hey its jus for learning how git hub works!!!
+hey its just for learning how git hub works!!!
